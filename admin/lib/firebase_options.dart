@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyAnLvnjB2oHrbr_7z3mZNcISXELpndOYeM',
-    appId: '1:900171925928:web:36315128ba3c08d75d759d',
+    appId: '1:900171925928:web:b05010e09ceab7335d759d',
     messagingSenderId: '900171925928',
     projectId: 'flutter-quiz-session',
     authDomain: 'flutter-quiz-session.firebaseapp.com',
