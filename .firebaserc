@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "flutter-quiz-session"
+  },
+  "targets": {
+    "flutter-quiz-session": {
+      "hosting": {
+        "admin": [
+          "flutter-quiz-session-admin"
+        ],
+        "client": [
+          "flutter-quiz-session-client"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
